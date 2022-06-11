@@ -51,7 +51,7 @@ const miFuncion = () => {
 
         let num = 0
         for (const element of result) {
-            num += element + num
+            num += element
             console.log(num)
         }
 
